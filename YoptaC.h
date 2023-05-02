@@ -60,7 +60,7 @@
 #define блять <<
 #define конец std::endl
 #define русский SetConsoleCP(1251)
-#define крымнаш SetConsoleOutputCP(1251)
+#define балтика9 SetConsoleOutputCP(1251)
 // матан
 #define шара rand
 #define рандом rand
